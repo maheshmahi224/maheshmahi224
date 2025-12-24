@@ -1,6 +1,7 @@
 <!-- ===================== GITHUB PROFILE README ===================== -->
 
 <h1 align="center">Hi 👋, I'm S. Maheshwara Chary</h1>
+
 <h3 align="center">
 2nd Year B.Tech Student @ Scient Institute of Technology, Hyderabad<br/>
 AI & Tech Enthusiast • Full-Stack Developer • Future Tech Leader
@@ -16,14 +17,14 @@ AI & Tech Enthusiast • Full-Stack Developer • Future Tech Leader
 
 ## 👨‍🎓 About Me
 
-I’m a **builder-focused engineering student** with a strong interest in  
-**Artificial Intelligence, Agentic Systems, and Full-Stack Development**.
+I’m a <b>builder-focused engineering student</b> with a strong interest in  
+<b>Artificial Intelligence, Agentic Systems, and Full-Stack Development</b>.
 
-I enjoy working on **end-to-end systems**, where I can design backend logic,  
+I enjoy working on <b>end-to-end systems</b>, where I design backend logic,  
 integrate intelligent components, and build clean user-facing interfaces.
 
-Currently, I focus on **learning by building real projects** and improving  
-my understanding of **system design, scalability, and maintainable code**.
+Currently, I focus on <b>learning by building real projects</b> and improving  
+my understanding of <b>system design, scalability, and maintainable code</b>.
 
 </div>
 
@@ -33,12 +34,25 @@ my understanding of **system design, scalability, and maintainable code**.
 
 ## 🌐 Connect With Me
 
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/s-maheshwara-chary-86619a339" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/mahesh____224" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:maheshmahi.ai224@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://discord.com/users" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
 
 </div>
 
@@ -105,3 +119,5 @@ my understanding of **system design, scalability, and maintainable code**.
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" />
 </div>
+
+<!-- ===================== END ===================== -->
