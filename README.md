@@ -57,7 +57,7 @@ my understanding of **system design, scalability, and maintainable code**.
 <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
 <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
 <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
+<a href="https://firebase.google.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
 <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></a>
 <a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></a>
 <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
@@ -78,37 +78,15 @@ my understanding of **system design, scalability, and maintainable code**.
 
 <div align="center">
 
-## 🚀 What I’m Working On
+## 🐍 Contribution Activity Game
 
-### 🧪 POLLUTRACE TECHNOLOGIES
-
-An **AI-powered environmental & pollution intelligence platform** focused on  
-monitoring, analyzing, and presenting real-world environmental data.
-
-🔗 https://pollutrace.vercel.app
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 Currently Learning
-
-- LangChain & Agent-based AI systems  
-- Retrieval Augmented Generation (RAG)  
-- Backend architecture for AI products  
-- Cloud fundamentals (AWS & GCP)  
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Activity
-
-<img src="https://raw.githubusercontent.com/ParthJohri/ParthJohri/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/maheshmahi224/maheshmahi224/output/github-contribution-grid-snake-dark.svg">
+  <img
+    src="https://raw.githubusercontent.com/maheshmahi224/maheshmahi224/output/github-contribution-grid-snake.svg"
+    alt="Contribution Activity Game">
+</picture>
 
 </div>
 
