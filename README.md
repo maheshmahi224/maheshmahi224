@@ -16,15 +16,19 @@ AI & Tech Enthusiast • Full-Stack Developer • Future Tech Leader
 
 ## 👨‍🎓 About Me
 
-I’m a **builder-focused engineering student** with a strong interest in  
-**AI Agents, LangChain, RAG systems, and scalable Full-Stack development**.
+I’m a **builder-driven engineering student** who focuses on turning ideas into  
+**real, working systems** rather than just academic demos.
 
-- 🚀 Currently working on **POLLUTRACE TECHNOLOGIES**
-- 🌱 Learning **LangChain AI Agents & RAG**
-- 👯 Looking to collaborate with **AI Research Enthusiasts**
-- 💬 Ask me about **AI Agents & Vibe Coding**
-- 📫 Reach me at **maheshmahi.ai224@gmail.com**
-- 🌐 Portfolio: **https://maheshmahi224.vercel.app**
+My core interests lie in **Artificial Intelligence, Agentic Systems, and Full-Stack Development**,  
+where I enjoy designing end-to-end solutions — from backend logic to user-facing interfaces.
+
+I strongly believe that:
+- good software should be **simple to use**
+- systems should be **scalable and maintainable**
+- learning happens best by **building and breaking things**
+
+I’m currently working towards becoming a **technically strong, product-minded engineer**  
+with the long-term goal of building **impactful tech products and startups**.
 
 </div>
 
@@ -32,21 +36,61 @@ I’m a **builder-focused engineering student** with a strong interest in
 
 <div align="center">
 
-## 🧑‍💻 Core Languages
+## 🚀 What I’m Working On
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-<img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
+### 🧪 POLLUTRACE TECHNOLOGIES
+
+An **AI-powered environmental & pollution intelligence platform** focused on  
+monitoring, analyzing, and presenting real-world environmental data.
+
+**My role includes:**
+- Designing application workflows  
+- Working on AI-driven insights & logic  
+- Building scalable full-stack components  
+
+🔗 **Project:** https://pollutrace.vercel.app
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Currently Learning & Exploring
+
+- LangChain & Agent-based AI systems  
+- Retrieval Augmented Generation (RAG)  
+- Backend architecture for AI products  
+- Cloud fundamentals (AWS & GCP)  
+- Improving system design & code quality  
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Open to Collaborate On
+
+- AI / ML & Agentic AI projects  
+- Full-Stack Web Applications  
+- Research-oriented technical projects  
+- Hackathons with strong problem statements  
+
+If the project is **serious and technically challenging**, I’m interested.
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Ask Me About
+
+- AI Agents & LangChain  
+- Full-Stack Development  
+- Project architecture & workflows  
+- Rapid prototyping (structured, not messy)
 
 </div>
 
@@ -94,32 +138,6 @@ I’m a **builder-focused engineering student** with a strong interest in
 <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
 <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></a>
 </p>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=maheshmahi224&show_icons=true&theme=github_dark&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmahi224&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/maheshmahi224/maheshmahi224/output/snake-dark.svg">
-  <img alt="Contribution Snake"
-    src="https://raw.githubusercontent.com/maheshmahi224/maheshmahi224/output/snake.svg">
-</picture>
 
 </div>
 
