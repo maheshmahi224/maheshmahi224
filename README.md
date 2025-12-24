@@ -1,36 +1,177 @@
-<h1 align="center">Hi 👋, I'm S MAHESHWARA CHARY</h1>
-<h3 align="center">2nd Year B.Tech Student | Scient Institute of Technology, Hyderabad 💡 AI & Tech Enthusiast | Future Tech Leader |</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshmahi224&label=Profile%20views&color=0e75b6&style=flat" alt="maheshmahi224" /> </p>
+<!-- HEADER -->
+<h1>Hi 👋, I'm S. Maheshwara Chary</h1>
+<h3>
+2nd Year B.Tech Student @ Scient Institute of Technology, Hyderabad<br/>
+AI & Systems Enthusiast • Builder • Future Tech Leader
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshmahi224" alt="maheshmahi224" /></a> </p>
+<!-- PROFILE VIEWS -->
+<img src="https://komarev.com/ghpvc/?username=maheshmahi224&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<br/><br/>
 
-- 🔭 I’m currently working on [POLLUTRACE TECHNOLOGIES](pollutrace.vercel.app)
+<!-- SOCIAL ICONS -->
+<a href="https://linkedin.com/in/s-maheshwara-chary-86619a339" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>&nbsp;&nbsp;
+<a href="https://instagram.com/mahesh____224" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>&nbsp;&nbsp;
+<a href="mailto:maheshmahi.ai224@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>&nbsp;&nbsp;
+<a href="https://www.topcoder.com/members/500059" target="_blank">
+  <img src="https://img.shields.io/badge/Topcoder-000000?style=for-the-badge&logo=topcoder&logoColor=white" />
+</a>
 
-- 🌱 I’m currently learning **LANGCHAIN AI AGENTS AND RAG**
+</div>
 
-- 👯 I’m looking to collaborate on **AI RESERCH ENTHUSIASTS**
+---
 
-- 👨‍💻 All of my projects are available at [maheshmahi224.vercel.app](maheshmahi224.vercel.app)
+## 🧠 About Me
 
-- 💬 Ask me about **AI AGENTS AND VIBE CODING**
+I’m a **hands-on technologist** focused on **AI systems, agentic workflows, and scalable web platforms**.
 
-- 📫 How to reach me **maheshmahi.ai224@gmail.com**
+- 🎓 2nd Year **B.Tech Student** at *Scient Institute of Technology*
+- 🧠 Deeply interested in **AI Agents, LangChain, RAG pipelines**
+- 🛠 Builder mindset — I learn by **shipping**, not watching tutorials
+- 🚀 Long-term goal: **build real tech companies, not just projects**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/s-maheshwara-chary-86619a339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/s-maheshwara-chary-86619a339" height="30" width="40" /></a>
-<a href="https://instagram.com/mahesh____224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahesh____224" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/500059" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="500059" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+## 🔭 What I’m Currently Working On
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshmahi224&show_icons=true&locale=en&layout=compact" alt="maheshmahi224" /></p>
+- 🚀 **POLLUTRACE TECHNOLOGIES**  
+  → AI-driven environmental & pollution monitoring platform  
+  🔗 https://pollutrace.vercel.app
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshmahi224&show_icons=true&locale=en" alt="maheshmahi224" /></p>
+- 🤖 **Agentic AI Systems**  
+  → LangChain agents, tool calling, memory, RAG architectures
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maheshmahi224&" alt="maheshmahi224" /></p>
+- 🌐 **Full-Stack AI Products**  
+  → MERN + Cloud + AI integrations
+
+---
+
+## 🌱 What I’m Currently Learning
+
+- **LangChain (Advanced)**
+- **Retrieval-Augmented Generation (RAG)**
+- **Multi-Agent AI Architectures**
+- **System Design for AI Products**
+- **Cloud-native deployment (AWS & GCP)**
+
+---
+
+## 👯 Open To Collaborate On
+
+- AI Research & Applied AI Projects  
+- Agent-based systems  
+- Startup-oriented product builds  
+- Hackathons with serious technical depth  
+
+If you’re just “idea-only” — don’t DM.  
+If you **build**, we’ll talk.
+
+---
+
+## 💬 Ask Me About
+
+- AI Agents & LangChain
+- Vibe Coding (rapid prototyping that actually works)
+- MERN Stack for scalable apps
+- Cloud deployment strategies
+- Turning college projects into real products
+
+---
+
+## 👨‍💻 Portfolio & Projects
+
+🌐 **All Projects:**  
+👉 https://maheshmahi224.vercel.app
+
+📫 **Email:**  
+👉 maheshmahi.ai224@gmail.com
+
+---
+
+<div align="center">
+
+## 💡 Quote That Fits My Mindset
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,react,nextjs,mongodb,redis,express,aws,gcp,firebase,flutter,arduino,git,linux&perline=8" />
+
+</div>
+
+---
+
+## 🧰 Languages & Tools (Detailed)
+
+- **Languages:** Python, JavaScript, TypeScript, C, C++
+- **Frontend:** React, Next.js, HTML, CSS
+- **Backend:** Node.js, Express, REST APIs
+- **Databases:** MongoDB, Redis, Firebase
+- **AI/ML:** LangChain, RAG pipelines, Agent workflows
+- **Cloud:** AWS, Google Cloud Platform
+- **DevOps & Tools:** Git, Postman, Linux
+- **Hardware:** Arduino, Embedded Prototyping
+- **Mobile:** Flutter, Android
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=maheshmahi224&theme=darkhub&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GitHub Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=maheshmahi224&show_icons=true&theme=dark&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshmahi224&layout=compact&theme=dark" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=maheshmahi224&theme=dark" />
+
+</div>
+
+---
+
+## 🎯 Philosophy
+
+I don’t chase certificates.  
+I chase **understanding**.
+
+I don’t build for grades.  
+I build for **impact**.
+
+And I don’t follow trends blindly —  
+I **reverse-engineer why they work**.
+
+---
+
+<div align="center">
+
+### ⚡ “Build. Break. Learn. Repeat.”
+
+</div>
