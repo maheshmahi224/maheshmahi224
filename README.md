@@ -16,81 +16,14 @@ AI & Tech Enthusiast • Full-Stack Developer • Future Tech Leader
 
 ## 👨‍🎓 About Me
 
-I’m a **builder-driven engineering student** who focuses on turning ideas into  
-**real, working systems** rather than just academic demos.
+I’m a **builder-focused engineering student** with a strong interest in  
+**Artificial Intelligence, Agentic Systems, and Full-Stack Development**.
 
-My core interests lie in **Artificial Intelligence, Agentic Systems, and Full-Stack Development**,  
-where I enjoy designing end-to-end solutions — from backend logic to user-facing interfaces.
+I enjoy working on **end-to-end systems**, where I can design backend logic,  
+integrate intelligent components, and build clean user-facing interfaces.
 
-I strongly believe that:
-- good software should be **simple to use**
-- systems should be **scalable and maintainable**
-- learning happens best by **building and breaking things**
-
-I’m currently working towards becoming a **technically strong, product-minded engineer**  
-with the long-term goal of building **impactful tech products and startups**.
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 What I’m Working On
-
-### 🧪 POLLUTRACE TECHNOLOGIES
-
-An **AI-powered environmental & pollution intelligence platform** focused on  
-monitoring, analyzing, and presenting real-world environmental data.
-
-**My role includes:**
-- Designing application workflows  
-- Working on AI-driven insights & logic  
-- Building scalable full-stack components  
-
-🔗 **Project:** https://pollutrace.vercel.app
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 Currently Learning & Exploring
-
-- LangChain & Agent-based AI systems  
-- Retrieval Augmented Generation (RAG)  
-- Backend architecture for AI products  
-- Cloud fundamentals (AWS & GCP)  
-- Improving system design & code quality  
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Open to Collaborate On
-
-- AI / ML & Agentic AI projects  
-- Full-Stack Web Applications  
-- Research-oriented technical projects  
-- Hackathons with strong problem statements  
-
-If the project is **serious and technically challenging**, I’m interested.
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 Ask Me About
-
-- AI Agents & LangChain  
-- Full-Stack Development  
-- Project architecture & workflows  
-- Rapid prototyping (structured, not messy)
+Currently, I focus on **learning by building real projects** and improving  
+my understanding of **system design, scalability, and maintainable code**.
 
 </div>
 
@@ -135,9 +68,49 @@ If the project is **serious and technically challenging**, I’m interested.
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
 <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
 <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+<a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
 <a href="https://redis.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/></a>
 </p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 What I’m Working On
+
+### 🧪 POLLUTRACE TECHNOLOGIES
+
+An **AI-powered environmental & pollution intelligence platform** focused on  
+monitoring, analyzing, and presenting real-world environmental data.
+
+🔗 https://pollutrace.vercel.app
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌱 Currently Learning
+
+- LangChain & Agent-based AI systems  
+- Retrieval Augmented Generation (RAG)  
+- Backend architecture for AI products  
+- Cloud fundamentals (AWS & GCP)  
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Ask Me About
+
+- AI Agents & LangChain  
+- Full-Stack Development  
+- Project architecture & workflows  
 
 </div>
 
