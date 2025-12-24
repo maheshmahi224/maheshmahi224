@@ -2,23 +2,76 @@
 
 <h1 align="center">Hi 👋, I'm S. Maheshwara Chary</h1>
 <h3 align="center">
-2nd Year B.Tech @ Scient Institute of Technology, Hyderabad<br/>
-AI & Tech Enthusiast • Full-Stack Builder • Future Tech Leader
+2nd Year B.Tech Student @ Scient Institute of Technology, Hyderabad<br/>
+AI & Tech Enthusiast • Full-Stack Developer • Aspiring Tech Leader
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=maheshmahi224&label=Profile+Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=maheshmahi224&label=Profile+Views&color=0e75b6&style=for-the-badge" />
 </div>
 
 ---
 
-## 🧠 About Me
+## 👨‍🎓 About Me
 
-- 🚀 Building **POLLUTRACE TECHNOLOGIES**
-- 🌱 Learning **LangChain, AI Agents & RAG**
-- 👯 Open to collaborate with **AI & Research Enthusiasts**
-- 💬 Ask me about **AI Agents & Vibe Coding**
-- 📫 Contact: **maheshmahi.ai224@gmail.com**
+I’m a **builder-focused engineering student** with a strong interest in **Artificial Intelligence, Agentic Systems, and Full-Stack Development**.  
+I focus on **learning by building**, not just consuming tutorials.
+
+- 🎓 Currently pursuing **B.Tech (2nd Year)** at *Scient Institute of Technology*
+- 🤖 Exploring **AI Agents, LangChain, and RAG architectures**
+- 🌍 Interested in solving **real-world problems using technology**
+- 🧠 Believe in **system thinking, clean design, and scalability**
+- 🚀 Long-term goal: build **impactful tech products and startups**
+
+---
+
+## 🔭 Current Work
+
+### 🧪 POLLUTRACE TECHNOLOGIES
+AI-powered environmental & pollution intelligence platform.
+
+**What I’m doing here:**
+- Designing data-driven monitoring workflows  
+- Integrating AI models for analysis & insights  
+- Building scalable web interfaces for real users  
+
+🔗 Project Link: https://pollutrace.vercel.app
+
+---
+
+## 🌱 Currently Learning
+
+- LangChain (Agents, Tools, Memory)
+- Retrieval Augmented Generation (RAG)
+- Backend architecture for AI products
+- Cloud deployment basics (AWS & GCP)
+- Improving system design & code quality
+
+---
+
+## 🤝 Open to Collaborate On
+
+- AI / ML & Agentic AI projects  
+- Full-Stack applications (MERN / Next.js)  
+- Research-oriented tech projects  
+- Hackathons with strong technical depth  
+
+If you’re serious about building — I’m interested.
+
+---
+
+## 💬 Ask Me About
+
+- AI Agents & LangChain  
+- Full-Stack Development  
+- Project architecture & workflows  
+- Rapid prototyping (“vibe coding”, but structured)
+
+---
+
+## 📫 Contact & Portfolio
+
+- 📧 Email: **maheshmahi.ai224@gmail.com**
 - 🌐 Portfolio: **https://maheshmahi224.vercel.app**
 
 ---
@@ -26,42 +79,60 @@ AI & Tech Enthusiast • Full-Stack Builder • Future Tech Leader
 ## 🌐 Connect With Me
 
 <div align="center">
-
-<a href="https://linkedin.com/in/s-maheshwara-chary-86619a339">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/mahesh____224">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.topcoder.com/members/500059">
-<img src="https://img.shields.io/badge/TopCoder-000000?style=for-the-badge&logo=topcoder&logoColor=white"/>
-</a>
-
-<a href="mailto:maheshmahi.ai224@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+  <a href="https://linkedin.com/in/s-maheshwara-chary-86619a339">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/mahesh____224">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.topcoder.com/members/500059">
+    <img src="https://img.shields.io/badge/TopCoder-000000?style=for-the-badge&logo=topcoder&logoColor=white"/>
+  </a>
+  <a href="mailto:maheshmahi.ai224@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technical Skills
 
-<div align="center">
+### Languages
+- Python  
+- JavaScript / TypeScript  
+- C / C++
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,redis,firebase,aws,gcp,git,linux&perline=7" />
+### Frontend
+- React.js  
+- Next.js  
+- HTML5 / CSS3  
 
-</div>
+### Backend
+- Node.js  
+- Express.js  
+- REST APIs  
 
----
+### Databases
+- MongoDB  
+- Redis  
+- Firebase  
 
-## 🏆 GitHub Trophies
+### AI / ML
+- LangChain  
+- RAG pipelines  
+- Agent workflows  
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maheshmahi224&theme=onestar&no-frame=true&row=1&column=6" />
-</div>
+### Cloud & Tools
+- AWS  
+- Google Cloud Platform  
+- Git & GitHub  
+- Postman  
+- Linux  
+
+### Hardware & Mobile
+- Arduino  
+- Embedded Prototyping  
+- Flutter (Basics)
 
 ---
 
@@ -74,7 +145,7 @@ AI & Tech Enthusiast • Full-Stack Builder • Future Tech Leader
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Contribution Streak
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maheshmahi224&theme=github-dark&hide_border=true" />
@@ -84,8 +155,9 @@ AI & Tech Enthusiast • Full-Stack Builder • Future Tech Leader
 
 ## 🎯 Philosophy
 
-> Build systems that survive reality.  
-> Think deeply. Ship responsibly. Maintain always.
+> Learn deeply.  
+> Build honestly.  
+> Ship what you can maintain.
 
 ---
 
