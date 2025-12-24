@@ -16,12 +16,12 @@ AI & Tech Enthusiast • Full-Stack Developer • Future Tech Leader
 
 ## 👨‍🎓 About Me
 
-I’m a **builder-focused engineering student** with strong interest in  
-**AI Agents, LangChain, RAG systems, and Full-Stack Development**.
+I’m a **builder-focused engineering student** with a strong interest in  
+**AI Agents, LangChain, RAG systems, and scalable Full-Stack development**.
 
 - 🚀 Currently working on **POLLUTRACE TECHNOLOGIES**
 - 🌱 Learning **LangChain AI Agents & RAG**
-- 👯 Open to collaborate with **AI Research Enthusiasts**
+- 👯 Looking to collaborate with **AI Research Enthusiasts**
 - 💬 Ask me about **AI Agents & Vibe Coding**
 - 📫 Reach me at **maheshmahi.ai224@gmail.com**
 - 🌐 Portfolio: **https://maheshmahi224.vercel.app**
@@ -32,20 +32,21 @@ I’m a **builder-focused engineering student** with strong interest in
 
 <div align="center">
 
-## 🌐 Connect With Me
+## 🧑‍💻 Core Languages
 
-<a href="https://linkedin.com/in/s-maheshwara-chary-86619a339">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/mahesh____224">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-<a href="https://www.topcoder.com/members/500059">
-<img src="https://img.shields.io/badge/TopCoder-000000?style=for-the-badge&logo=topcoder&logoColor=white"/>
-</a>
-<a href="mailto:maheshmahi.ai224@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" />
 
 </div>
 
@@ -53,7 +54,22 @@ I’m a **builder-focused engineering student** with strong interest in
 
 <div align="center">
 
-## 🧰 Languages and Tools
+## 🌐 Connect With Me
+
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧰 Languages & Tools
 
 <p align="center">
 <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/></a>
@@ -96,9 +112,9 @@ I’m a **builder-focused engineering student** with strong interest in
 
 <div align="center">
 
-## 🔥 GitHub Streak
+## 🐍 Contribution Snake
 
-<img src="https://streak-stats.demolab.com?user=maheshmahi224&theme=github-dark&hide_border=true" />
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 </div>
 
