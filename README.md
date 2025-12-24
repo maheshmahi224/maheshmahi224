@@ -114,7 +114,12 @@ I’m a **builder-focused engineering student** with a strong interest in
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/maheshmahi224/maheshmahi224/output/snake-dark.svg">
+  <img alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/maheshmahi224/maheshmahi224/output/snake.svg">
+</picture>
 
 </div>
 
